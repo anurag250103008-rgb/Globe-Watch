@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://microo-watch.netlify.app/sitemap.xml
