@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://microo-watch.netlify.app/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://globe-watch.netlify.app/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://microo-watch.netlify.app/</loc>
+<loc>https://globe-watch.netlify.app/</loc>
 </url>
 <url>
-<loc>https://microo-watch.netlify.app/hi-iresh.html</loc>
+<loc>https://globe-watch.netlify.app/hi-iresh.html</loc>
 <lastmod>2025-10-14T19:17:01+05:30</lastmod>
 </url>
 <url>
-<loc>https://microo-watch.netlify.app/india-rejects-court-of-arbitration-slams-charade-at-pakistans-behest.html</loc>
+<loc>https://globe-watch.netlify.app/india-rejects-court-of-arbitration-slams-charade-at-pakistans-behest.html</loc>
 <lastmod>2025-06-28T20:14:21+05:30</lastmod>
 </url>
 <url>
-<loc>https://microo-watch.netlify.app/suicide-car-bombing-in-pakistans-khyber-pakhtunkhwa-kills-16-islamabad-blames-india-again-without-evidence.html</loc>
+<loc>https://globe-watch.netlify.app/suicide-car-bombing-in-pakistans-khyber-pakhtunkhwa-kills-16-islamabad-blames-india-again-without-evidence.html</loc>
 <lastmod>2025-06-29T11:17:51+05:30</lastmod>
 </url>
 </urlset>

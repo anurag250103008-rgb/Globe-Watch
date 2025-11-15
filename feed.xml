@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>GlobeWatch</title>
-    <link href="https://microo-watch.netlify.app/feed.xml" rel="self" />
-    <link href="https://microo-watch.netlify.app" />
+    <link href="https://globe-watch.netlify.app/feed.xml" rel="self" />
+    <link href="https://globe-watch.netlify.app" />
     <updated>2025-10-14T19:17:01+05:30</updated>
     <author>
         <name>Anurag Srivastav</name>
     </author>
-    <id>https://microo-watch.netlify.app</id>
+    <id>https://globe-watch.netlify.app</id>
 
     <entry>
         <title>Hi, Iresh.</title>
         <author>
             <name>Anurag Srivastav</name>
         </author>
-        <link href="https://microo-watch.netlify.app/hi-iresh.html"/>
-        <id>https://microo-watch.netlify.app/hi-iresh.html</id>
+        <link href="https://globe-watch.netlify.app/hi-iresh.html"/>
+        <id>https://globe-watch.netlify.app/hi-iresh.html</id>
 
         <updated>2025-10-14T19:17:01+05:30</updated>
             <summary></summary>
@@ -26,8 +26,8 @@
         <author>
             <name>Anurag Srivastav</name>
         </author>
-        <link href="https://microo-watch.netlify.app/suicide-car-bombing-in-pakistans-khyber-pakhtunkhwa-kills-16-islamabad-blames-india-again-without-evidence.html"/>
-        <id>https://microo-watch.netlify.app/suicide-car-bombing-in-pakistans-khyber-pakhtunkhwa-kills-16-islamabad-blames-india-again-without-evidence.html</id>
+        <link href="https://globe-watch.netlify.app/suicide-car-bombing-in-pakistans-khyber-pakhtunkhwa-kills-16-islamabad-blames-india-again-without-evidence.html"/>
+        <id>https://globe-watch.netlify.app/suicide-car-bombing-in-pakistans-khyber-pakhtunkhwa-kills-16-islamabad-blames-india-again-without-evidence.html</id>
 
         <updated>2025-06-29T11:17:51+05:30</updated>
             <summary>
@@ -49,8 +49,8 @@
         <author>
             <name>Anurag Srivastav</name>
         </author>
-        <link href="https://microo-watch.netlify.app/india-rejects-court-of-arbitration-slams-charade-at-pakistans-behest.html"/>
-        <id>https://microo-watch.netlify.app/india-rejects-court-of-arbitration-slams-charade-at-pakistans-behest.html</id>
+        <link href="https://globe-watch.netlify.app/india-rejects-court-of-arbitration-slams-charade-at-pakistans-behest.html"/>
+        <id>https://globe-watch.netlify.app/india-rejects-court-of-arbitration-slams-charade-at-pakistans-behest.html</id>
 
         <updated>2025-06-28T20:14:21+05:30</updated>
             <summary>
