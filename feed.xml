@@ -3,58 +3,12 @@
     <title>GlobeWatch</title>
     <link href="https://globe-watch.netlify.app/feed.xml" rel="self" />
     <link href="https://globe-watch.netlify.app" />
-    <updated>2025-11-16T00:15:08+05:30</updated>
+    <updated>2025-06-29T11:17:51+05:30</updated>
     <author>
         <name>Anurag Srivastav</name>
     </author>
     <id>https://globe-watch.netlify.app</id>
 
-    <entry>
-        <title>One more thing.</title>
-        <author>
-            <name>Anurag Srivastav</name>
-        </author>
-        <link href="https://globe-watch.netlify.app/one-more-thing.html"/>
-        <id>https://globe-watch.netlify.app/one-more-thing.html</id>
-
-        <updated>2025-11-16T00:15:08+05:30</updated>
-            <summary>
-                <![CDATA[
-                    Shourya is beside me and doing the ECE lab work.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    Shourya is beside me and doing the ECE lab work.
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Hi, MAE &#x27;29.</title>
-        <author>
-            <name>Anurag Srivastav</name>
-        </author>
-        <link href="https://globe-watch.netlify.app/hi-mae-29.html"/>
-        <id>https://globe-watch.netlify.app/hi-mae-29.html</id>
-
-        <updated>2025-11-16T00:13:03+05:30</updated>
-            <summary>
-                <![CDATA[
-                    It's me, Anurag. Welcome!
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    It's me, Anurag. Welcome!
-  </p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Suicide Car Bombing in Pakistan’s Khyber Pakhtunkhwa Kills 16 — Islamabad Blames India, Again Without Evidence</title>
         <author>

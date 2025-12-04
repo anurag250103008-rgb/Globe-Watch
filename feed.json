@@ -11,34 +11,6 @@
     },
     "items": [
         {
-            "id": "https://globe-watch.netlify.app/one-more-thing.html",
-            "url": "https://globe-watch.netlify.app/one-more-thing.html",
-            "title": "One more thing.",
-            "summary": "Shourya is beside me and doing the ECE lab work.",
-            "content_html": "\n  <p>\n    Shourya is beside me and doing the ECE lab work.\n  </p>",
-            "author": {
-                "name": "Anurag Srivastav"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-11-16T00:15:08+05:30",
-            "date_modified": "2025-11-16T00:15:08+05:30"
-        },
-        {
-            "id": "https://globe-watch.netlify.app/hi-mae-29.html",
-            "url": "https://globe-watch.netlify.app/hi-mae-29.html",
-            "title": "Hi, MAE &#x27;29.",
-            "summary": "It's me, Anurag. Welcome!",
-            "content_html": "\n  <p>\n    It's me, Anurag. Welcome!\n  </p>",
-            "author": {
-                "name": "Anurag Srivastav"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-11-16T00:13:03+05:30",
-            "date_modified": "2025-11-16T00:13:03+05:30"
-        },
-        {
             "id": "https://globe-watch.netlify.app/suicide-car-bombing-in-pakistans-khyber-pakhtunkhwa-kills-16-islamabad-blames-india-again-without-evidence.html",
             "url": "https://globe-watch.netlify.app/suicide-car-bombing-in-pakistans-khyber-pakhtunkhwa-kills-16-islamabad-blames-india-again-without-evidence.html",
             "title": "Suicide Car Bombing in Pakistan’s Khyber Pakhtunkhwa Kills 16 — Islamabad Blames India, Again Without Evidence",
