@@ -3,7 +3,7 @@
     <title>GlobeWatch</title>
     <link href="https://globe-watch.netlify.app/feed.xml" rel="self" />
     <link href="https://globe-watch.netlify.app" />
-    <updated>2025-12-13T11:18:06+05:30</updated>
+    <updated>2025-12-13T11:25:16+05:30</updated>
     <author>
         <name>Anurag Srivastav</name>
     </author>
@@ -16,12 +16,15 @@
         </author>
         <link href="https://globe-watch.netlify.app/diplomatic-decorum-shattered-the-ashgabat-wait-and-the-gatecrash.html"/>
         <id>https://globe-watch.netlify.app/diplomatic-decorum-shattered-the-ashgabat-wait-and-the-gatecrash.html</id>
+        <media:content url="https://globe-watch.netlify.app/media/posts/8/Screenshot-2025-12-13-112217.png" medium="image" />
             <category term="RUSSIA"/>
             <category term="PAKISTAN"/>
+            <category term="GEOPOLITICS "/>
 
         <updated>2025-12-13T10:58:08+05:30</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://globe-watch.netlify.app/media/posts/8/Screenshot-2025-12-13-112217.png" alt="GATECRASH OF SHARIF " />
                     <p data-path-to-node="1">Pakistani Prime Minister Shehbaz Sharif reportedly faced a diplomatic embarrassment in Ashgabat, Turkmenistan, after allegedly being left waiting by Russian President Vladimir Putin.</p>
 <p data-path-to-node="2">The incident, which occurred at the International Forum on Peace and Trust, culminated in what was widely described as Sharif's unscripted <strong>"gatecrash"</strong> of a closed-door meeting between Putin and Turkey's President Erdoğan.</p>
 <p data-path-to-node="3">The public perception of the event highlighted Russia's contrastingly warm ties with India, fueling claims of a significant diplomatic snub to Pakistan.</p>
@@ -30,6 +33,7 @@
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://globe-watch.netlify.app/media/posts/8/Screenshot-2025-12-13-112217.png" class="type:primaryImage" alt="GATECRASH OF SHARIF " /></p>
                 <p data-path-to-node="1">Pakistani Prime Minister Shehbaz Sharif reportedly faced a diplomatic embarrassment in Ashgabat, Turkmenistan, after allegedly being left waiting by Russian President Vladimir Putin.</p>
 <p data-path-to-node="2">The incident, which occurred at the International Forum on Peace and Trust, culminated in what was widely described as Sharif's unscripted <strong>"gatecrash"</strong> of a closed-door meeting between Putin and Turkey's President Erdoğan.</p>
 <p data-path-to-node="3">The public perception of the event highlighted Russia's contrastingly warm ties with India, fueling claims of a significant diplomatic snub to Pakistan.</p>
